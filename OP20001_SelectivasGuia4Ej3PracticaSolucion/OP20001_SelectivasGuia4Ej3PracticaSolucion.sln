@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP20001_SelectivasGuia4Ej3Practica", "OP20001_SelectivasGuia4Ej3Practica\OP20001_SelectivasGuia4Ej3Practica.csproj", "{68B22FA3-9068-4267-AC86-9F1CBE39EAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B22FA3-9068-4267-AC86-9F1CBE39EAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B22FA3-9068-4267-AC86-9F1CBE39EAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B22FA3-9068-4267-AC86-9F1CBE39EAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B22FA3-9068-4267-AC86-9F1CBE39EAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56509BC1-7DEC-416D-9ED5-5877895306FD}
+	EndGlobalSection
+EndGlobal
